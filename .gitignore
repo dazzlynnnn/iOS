@@ -90,3 +90,11 @@ fastlane/test_output
 iOSInjectionProject/
 .idea/**
 
+.idea/iOS.iml
+*.xml
+*.iml
+.idea/**
+iOS/**/.idea
+.idea
+.idea/
+

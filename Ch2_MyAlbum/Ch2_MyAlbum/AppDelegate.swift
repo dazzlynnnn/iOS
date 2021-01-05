@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Ch2_FirstApp
+//  Ch2_MyAlbum
 //
 //  Created by 이해린 on 2021/01/05.
 //
